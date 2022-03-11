@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning JavaScript, Node JS, Express, REST, MongoDB, MySQL 
-👯 I'm currently looking for an internship for this fall
-📫 You can reach me at: johannajonsson96@hotmail.com
+- 🌱 I’m currently learning JavaScript, Node JS, Express, REST, MongoDB, MySQL 
+- 👯 I'm currently looking for an internship for this fall
+- 📫 You can reach me at: johannajonsson96@hotmail.com
