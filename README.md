@@ -1,5 +1,5 @@
 ## Hello! 👋 
-### My name is Johanna Jönsson and I'm a passionate Front End Developer-student from Sweden. 
+## My name is Johanna Jönsson and I'm a passionate Front End Developer-student from Sweden. 
 
 <!--
 **isola96/isola96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
