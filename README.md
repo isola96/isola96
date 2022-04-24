@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning JavaScript, Node JS, Express, REST, MongoDB, MySQL 
-- 👯 I'm open for an internship opportunity for this fall. 
 - 📫 Email me at: johannajonsson96@hotmail.com
 
 ## My GitHub Stats 
