@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript, Node JS, Express, REST, MongoDB, MySQL 
+- 🌱 I’m currently learning React  
 - 📫 Email me at: johannajonsson96@hotmail.com
 
 ## My GitHub Stats 
